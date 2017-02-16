@@ -1,4 +1,4 @@
-body {
+hbody {
 	padding-top: 50px;    /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
 	color: #959595;
 	}
@@ -89,7 +89,7 @@ h6 {
 }
 
 .featured-product h3 {
-	color: #dd845a;
+	color: #000;
 	font-size: 18px;
 	}
 
